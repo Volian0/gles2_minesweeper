@@ -1,0 +1,5 @@
+#ignore all build folders
+/build*/
+
+#ignore all script files
+/*.sh
